@@ -1,5 +1,8 @@
 # 8_wwek_sql_challenge_data_with_danny
 My Solutions to Week SQL Challenge
 
-Learning SQL was new in shaping my data analyst career. [Danny Ma's SQL challenges](https://8weeksqlchallenge.com/) aimed at enhancing problem-solving skills, are featured in this repository alongside my solutions. Keep in mind the diverse ways to approach these tasks. While using Snowflake, some solutions may not translate to other SQL platforms due to function differences.
+ABOUT
 
+Learning SQL was something new in shaping my data analyst career. [Danny Ma's SQL](https://8weeksqlchallenge.com/), which aims to improve its problem solving capabilities, includes the solutions as well as the talent details in this repository. I've included different approaches to approaching these tasks. While Postgresql is running, some solution may not be translated to other SQL platforms due to functional differences.
+
+[Case Study 1](https://8weeksqlchallenge.com/case-study-1/), skill test included;Ranking(Window Functions), Join Statments,Common Table Expressions (CTEs), Case Statements, Dates and Scalar functions.
