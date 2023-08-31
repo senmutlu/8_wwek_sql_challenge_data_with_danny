@@ -139,7 +139,7 @@ INNER JOIN members AS mem ON mem.customer_id=s.customer_id
 WHERE DATE_PART('month',order_date)=1
 GROUP BY s.customer_id;
 
---BONUS STUDİES
+--BONUS STUDIES
 
 --11 Join All The Things
 --The following questions are related creating basic data tables that Danny and his team can use to 
